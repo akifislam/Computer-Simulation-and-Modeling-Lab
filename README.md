@@ -3,4 +3,4 @@
 <h5> Readme is now under construction
 </center>
 
-<img src="./Resources/ChemicalReaction.gif">
+<a href="https://ibb.co/C0jpp30"><img src="https://i.ibb.co/f03VVz0/Chemical-Reaction.gif" alt="Chemical-Reaction" border="10"></a>
