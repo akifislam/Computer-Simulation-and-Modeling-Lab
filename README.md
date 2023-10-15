@@ -3,4 +3,6 @@
 <h5> Readme is now under construction
 </center>
 
-<img src = "./Resources/Chemical-Reactor.png">
+
+<img height=300 width =400 src="./Resources/ChemicalReaction.gif">
+
